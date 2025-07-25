@@ -1,4 +1,4 @@
-# HearthDiseaseAnalysisProject
+# HeartDiseaseAnalysisProject
 Here’s What you’ll Learn:
 
 KPI’s Overview : Survival Rate, Avg Age of Survival, Total Survival and Total Death Provide a comprehensive overview of patients.
